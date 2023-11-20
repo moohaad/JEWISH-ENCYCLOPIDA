@@ -1,0 +1,167 @@
+[General]
+SourceFolder=E:\jewish\ENCYCLOPID\images\book 1
+TargetFolder=E:\jewish\ENCYCLOPID\photos\photo 1
+TargetIsSource=0
+
+[Thumbnails]
+ThumbFilePrefix=TN
+ThumbFileSuffix=
+ThumbSubfolder=thumbnails
+
+[Images]
+ImagesSubfolder=
+ThumbTitleFormat=
+ImageTitleFormat=
+ImageQLTitleFormat=
+ImagePageTitleFormat=√·»Ê„ «·’Ê— «·≈›  «ÕÌ… ··„Ã·œ« 
+ImageAltTitleFormat=
+ImageQLLabelType=1
+ImagePageLabelType=9
+ImageAltLabelType=10
+
+[Image]
+ImageText=Specimen
+AddImageText=0
+ImageLabelType=3
+ImageTextPosition=0
+ImageFontName=Arial Black
+ImageFontSize=18
+ImageFontColor=12632256
+ImageFontBold=0
+ImageFontItalic=0
+ImageFontStrikeOut=0
+ImageFontUnderLine=0
+
+[HTML]
+TableBGColor=Default
+TableBackground=C:\Program Files\NasherNet.200\Media\IMAGES\BKGROUND\Pattern\Bkgrnd1.jpg
+IndexFileNamePrefix=index
+IndexTitle=√·»Ê„ «·’Ê— «·≈›  «ÕÌ… ··„Ã·œ« 
+IndexBGColor=Default
+IndexTextColor=Default
+IndexLinkColor=#FFFFFF
+IndexVLinkColor=#FFFF00
+IndexALinkColor=Default
+IndexBackground=C:\Program Files\NasherNet.200\Media\IMAGES\BKGROUND\Water\Bgrnd156.jpg
+ImageBGColor=Default
+ImageTextColor=Default
+ImageLinkColor=Default
+ImageVLinkColor=Default
+ImageALinkColor=Default
+ImageBackground=
+ImageHeight=
+ImageWidth=50%
+ImageFileNamePrefix=image
+TargetFrameName=
+TemplateIndexFileName=
+TemplateImageFileName=
+NavHomeLabel=Home
+NavHomeLink=
+NavIndexLabel=Index Page
+NavPrevLabel=[&lt&lt Prev]
+NavNextLabel=[Next &gt&gt]
+NavImageLabel=Image
+NavOfLabel=of
+ImageNavHomeImage=
+ImageNavIndexImage=C:\Program Files\NasherNet.200\Media\IMAGES\ARROWS\Arrow26.gif
+ImageNavNextImage=C:\Program Files\NasherNet.200\Media\IMAGES\ARROWS\Arrow4.gif
+ImageNavPrevImage=C:\Program Files\NasherNet.200\Media\IMAGES\ARROWS\Arrow3.gif
+IndexNavHomeLabel=
+IndexNavHomeImage=F:\Arles Image Web Page Creator\Buttons\Blue_home.gif
+IndexNavHomeLink=
+IndexNavPrevLabel=[&lt&lt Prev]
+IndexNavPrevImage=C:\Program Files\NasherNet.200\Media\IMAGES\ARROWS\Arrow28.gif
+IndexNavNextLabel=[Next &gt&gt]
+IndexNavNextImage=C:\Program Files\NasherNet.200\Media\IMAGES\ARROWS\Arrow29.gif
+IndexNavQlistLabel=Index
+IndexNavIndexLabel=page
+IndexNavOfLabel=of
+PageTitleFontFace=Default
+PageTitleFontSize=5
+PageTitleFormat=H1
+ThumbnailFontFace=Default
+ThumbnailFontSize=2
+ImageTitleFontFace=Default
+ImageTitleFontSize=5
+NavFontFace=Default
+NavFontSize=Default
+FramesUsed=0
+ImageNavHome=0
+NavTop=0
+NavBottom=1
+NavIndex=1
+NavNext=1
+NavPrev=1
+NavImage=0
+NavOf=0
+IndexNavTop=0
+IndexNavBottom=1
+IndexNavHome=0
+IndexNavNext=1
+IndexNavPrev=1
+IndexNavQuickList=0
+IndexNavIndex=0
+IndexNavOf=1
+ThumbTitleTop=0
+ThumbTitleBottom=1
+TitleTop=0
+TitleBottom=1
+NavDropDownList=0
+UseIndexTemplate=0
+UseImageTemplate=0
+ArlesLinkIndex=1
+ArlesLinkImage=1
+IsAddSizeInfo=0
+SingleIndexPage=0
+AllPagesSameLayout=1
+PageTitleFontBold=1
+PageTitleFontItalic=0
+ThumbnailFontBold=1
+ThumbnailFontItalic=0
+ImageTitleFontBold=1
+ImageTitleFontItalic=0
+NavFontBold=0
+NavFontItalic=0
+TableBorderWidth=1
+TableCellPadding=10
+TableCellSpacing=1
+ThumbBorderWidth=1
+ImageBorderWidth=1
+LinkType=1
+
+[ThumbNail]
+ThumbAspectRatioLocked=1
+ThumbCrop=0
+SortByName=1
+ResizeImage=1
+ThumbMaxWidth=100
+ThumbMaxHeight=100
+ThumbQuality=90
+ThumbRowCount=4
+ThumbColumnCount=2
+ThumbFilter=6
+ImageResizeWidth=500
+ImageResizeHeight=500
+ImageCreationType=2
+ThumbLabelType=3
+ThumbTableAlign=2
+
+[Image Titles]
+1.jpg=«„—√… ÌÂÊœÌ… «’·«ÕÌ…  — œÌ ‘«· «·’·«… (ÿ«·Ì ) Ê Ã«œ· ÌÂÊœÌ« √—ÀÊ–ﬂ”Ì« √„«„ Õ«∆ÿ «·„»ﬂÏ ⁄«„ 1997
+2.jpg=Õ«Œ«„ »Ê·‰œÌ Ì”Ì— ›Ì √Õœ ‘Ê«—⁄ Ê«—”Ê° ⁄«„ 1938
+3.jpg=ﬂ«—· „«—ﬂ” - √·»—  √Ì‰‘ «Ì‰ - ”ÌÃ„Ê‰œ ›—ÊÌœ - ¬—À— „Ì··— - ›—«‰“ ﬂ«›ﬂ« - ÊÊœÌ √·Ì‰ - Â‰—Ì ﬂÌ”‰Ã—
+4.jpg=»«∆⁄ ÌÂÊœÌ „ ÃÊ· ›Ì ›—«‰ﬂ›Ê—  ›Ì «·ﬁ—‰ «·À«„‰ ⁄‘—° Ì»Ì⁄ √œÊ«  «·„ÿ»Œ
+5.jpg=ÌÂÊœÌ«‰ Ì·»”«‰ ‘«· «·’·«… (ÿ«·Ì )° ÌÕ„· √ÕœÂ„« ·›«∆› «· Ê—«… ÊÌ— œÌ ⁄·Ï —√”Â  „Ì„… «·’·«… ( Ì›·Ì‰)
+6.jpg=€·«› ﬂ «» «·›—ﬁ «·ÌÂÊœÌ… «·⁄”ﬂ—Ì… ›Ì ›·”ÿÌ‰ (1918)
+7.jpg=‘·Ê„Ê ÃÊ—Ì‰° Õ«Œ«„ «·ﬁÊ«  «·„”·Õ… «·≈”—«∆Ì·Ì…° ÌÕ„· ·›«∆› «· Ê—«… √„«„ Õ«∆ÿ «·„»ﬂÏ
+8.jpg=ﬂ« » ÌÂÊœÌ Ì’ÕÕ ≈ÕœÏ ·›«∆› «· Ê—«…
+
+[Image Titles 2]
+1.jpg=«·„Ã·œ «·√Ê·
+2.jpg=«·„Ã·œ «·À«‰Ì
+3.jpg=«·„Ã·œ «·À«·À
+4.jpg=«·„Ã·œ «·—«»⁄
+5.jpg=«·„Ã·œ «·Œ«„”
+6.jpg=«·„Ã·œ «·”«œ”
+7.jpg=«·„Ã·œ «·”«»⁄
+8.jpg=«·„Ã·œ «·À«„‰
